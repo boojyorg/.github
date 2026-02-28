@@ -1,8 +1,8 @@
 # The universe is your canvas 🪐
 
-**Boojy** is a suite of free creative tools built for everyone. No subscriptions, no lock-in, no catch — just tools that stay out of your way and let you focus on making things.
+**Boojy** is a suite of free creative tools built for everyone. Made to stay out of your way and let you focus on making things.
 
-Everything is free. Everything is yours.
+The tools are free. Your work is yours.
 
 ---
 
@@ -18,9 +18,9 @@ Boojy is built by one person who thinks creative software should be accessible t
 
 📝 **[Boojy Notes](https://boojy.org/notes)** — A free note-taking app where your notes actually belong to you. No cloud required, no walled gardens. Your files, your way.
 
-### What's Next
+☁️ **[Boojy Cloud](https://boojy.org/cloud)** — Free cloud storage to keep your work backed up and accessible across devices. Need more space? **Boojy Orbit** unlocks expanded storage.
 
-Boojy is always evolving. Here's what's on the horizon:
+### What's Next
 
 - ☁️ Improved cloud sync across the Boojy suite
 - 🖥️ Desktop versions for Boojy Notes
