@@ -10,28 +10,28 @@ The tools are free. Your work is yours.
 
 Most creative software either costs a fortune or holds your work hostage. Boojy is the opposite. It's a growing collection of apps designed to give people the tools they need without asking for anything in return.
 
-Boojy is built by one person who thinks creative software should be accessible to everyone — whether you're making your first beat or organising your entire life.
+Boojy is built by one person who thinks creative software should be accessible to everyone, whether you're making your first beat or organising your entire life.
 
 ### The Apps
 
-🎵 **[Boojy Audio](https://boojy.org/audio)** — A free digital audio workstation. Currently in beta. Make music from scratch — loops, recording, mixing — without paying a penny.
+🎵 **[Boojy Audio](https://boojy.org/audio)**: A free digital audio workstation, currently in early development. Make music from scratch with loops, recording, and mixing, all without paying a penny.
 
-📝 **[Boojy Notes](https://boojy.org/notes)** — A free note-taking app where your notes actually belong to you. No cloud required, no walled gardens. Your files, your way.
+🎨 **[Boojy Design](https://boojy.org/design)**: A free image editor that runs in your browser. Paint, shapes, text, layers, and transforms on one canvas. No subscription, no install.
 
-☁️ **[Boojy Cloud](https://boojy.org/cloud)** — Free cloud storage to keep your work backed up and accessible across devices. Need more space? **Boojy Orbit** unlocks expanded storage.
+📝 **[Boojy Notes](https://boojy.org/notes)**: A free, local-first note-taking app where your notes actually belong to you. Work offline, sync when you want, no walled gardens.
 
 ### What's Next
 
-- ☁️ Improved cloud sync across the Boojy suite
-- 🖥️ Desktop versions for Boojy Notes
-- 🔧 Continued improvements to Boojy Audio as it moves out of beta
+- 🎨 New brushes and tools across Boojy Design
+- 🖥️ Desktop versions of Boojy Notes
+- 🔧 Continued work on Boojy Audio as it grows toward a stable release
 
 ### Follow Along
 
-Boojy has a [YouTube channel](https://youtube.com/@boojy) with monthly showcases, walkthroughs, and behind-the-scenes looks at how the apps are built.
+A monthly Boojy newsletter is on the way: showcases, walkthroughs, and behind-the-scenes looks at how the apps are built. Sign-up details coming soon at [boojy.org](https://boojy.org).
 
-If you've got ideas, feedback, or just want to say hey — reach out at [tyr@boojy.org](mailto:tyr@boojy.org).
+If you've got ideas, feedback, or just want to say hey, reach out at [tyr@boojy.org](mailto:tyr@boojy.org).
 
 ---
 
-🌐 **[boojy.org](https://boojy.org)** — Get started for free
+🌐 **[boojy.org](https://boojy.org)**: Get started for free
