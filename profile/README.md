@@ -1,37 +1,27 @@
-# The universe is your canvas 🪐
+# Boojy
 
-**Boojy** is a suite of free creative tools built for everyone. Made to stay out of your way and let you focus on making things.
+**Your creative space.** Free, open source software. Made by Tyr.
 
-The tools are free. Your work is yours.
+Boojy is a small suite of creative apps for people who make things for the joy of it. Every app is free to use. Your work stays in ordinary files on your own computer.
 
----
+## The apps
 
-### What's Boojy?
+📝 **[Boojy Notes](https://boojy.org/notes/)** · A calm space for your thoughts. Write in markdown. Own your files.
 
-Most creative software either costs a fortune or holds your work hostage. Boojy is the opposite. It's a growing collection of apps designed to give people the tools they need without asking for anything in return.
+🎵 **[Boojy Audio](https://boojy.org/audio/)** · A free, simple music studio. For macOS and Windows.
 
-Boojy is built by one person who thinks creative software should be accessible to everyone — whether you're making your first beat or organising your entire life.
+🎨 **[Boojy Design](https://boojy.org/design/)** · An image editor in the browser. Draw, edit, and design.
 
-### The Apps
+## Where things are
 
-🎵 **[Boojy Audio](https://boojy.org/audio)** — A free digital audio workstation. Currently in beta. Make music from scratch — loops, recording, mixing — without paying a penny.
+- **Notes** is in active development, heading for a desktop Beta.
+- **Audio** is currently paused.
+- **Design** is a working preview. Development is currently paused.
 
-📝 **[Boojy Notes](https://boojy.org/notes)** — A free note-taking app where your notes actually belong to you. No cloud required, no walled gardens. Your files, your way.
-
-☁️ **[Boojy Cloud](https://boojy.org/cloud)** — Free cloud storage to keep your work backed up and accessible across devices. Need more space? **Boojy Orbit** unlocks expanded storage.
-
-### What's Next
-
-- ☁️ Improved cloud sync across the Boojy suite
-- 🖥️ Desktop versions for Boojy Notes
-- 🔧 Continued improvements to Boojy Audio as it moves out of beta
-
-### Follow Along
-
-Boojy has a [YouTube channel](https://youtube.com/@boojy) with monthly showcases, walkthroughs, and behind-the-scenes looks at how the apps are built.
-
-If you've got ideas, feedback, or just want to say hey — reach out at [tyr@boojy.org](mailto:tyr@boojy.org).
+All three are early. Expect rough edges.
 
 ---
 
-🌐 **[boojy.org](https://boojy.org)** — Get started for free
+Boojy is built and maintained by me, Tyr.
+
+Explore the apps at [boojy.org](https://boojy.org). If you have feedback or find a bug, email me at [tyr@boojy.org](mailto:tyr@boojy.org).
