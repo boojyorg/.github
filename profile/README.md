@@ -10,15 +10,14 @@ Boojy is a small suite of creative apps for people who make things for the joy o
 
 🎵 **[Boojy Audio](https://boojy.org/audio/)** · A free, simple music studio. For macOS and Windows.
 
-🎨 **[Boojy Design](https://boojy.org/design/)** · An image editor in the browser. Draw, edit, and design.
-
 ## Where things are
 
-- **Notes** is in active development, heading for a desktop Beta.
-- **Audio** is currently paused.
-- **Design** is a working preview. Development is currently paused.
+- **Notes** is in early access. v0.11.0 is out for macOS, Windows and Linux, and I use it every day. Beta comes when it feels complete for daily use.
+- **Audio** is in early access too, at v0.6.0. I'm back working on it, making it more reliable first. It still has plenty of bugs.
 
-All three are early. Expect rough edges.
+Both are early. Expect rough edges.
+
+There's also [Boojy Design](https://boojy.org/design/), an image editor in the browser. It works, but I've paused it for now.
 
 ---
 
