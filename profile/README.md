@@ -17,7 +17,7 @@ Boojy is a small suite of creative apps for people who make things for the joy o
 
 Both are early. Expect rough edges.
 
-There's also [Boojy Design](https://boojy.org/design/), an image editor in the browser. It works, but I've paused it for now.
+There's also Boojy Design, an image editor for the browser. It's on hold until Notes and Audio are both in beta.
 
 ---
 
