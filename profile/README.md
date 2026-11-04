@@ -2,25 +2,21 @@
 
 **Your creative space.** Free, open source software. Made by Tyr.
 
-Boojy is a small suite of creative apps for people who make things for the joy of it. Every app is free to use. Your work stays in ordinary files on your own computer.
+Boojy is a small suite of creative apps, free for everyone and simple enough for anyone to start with. No subscriptions, no paywalls, no account. Your work stays in ordinary files on your own computer.
 
 ## The apps
 
-📝 **[Boojy Notes](https://boojy.org/notes/)** · A calm space for your thoughts. Write in markdown. Own your files.
+📝 **[Boojy Notes](https://boojy.org/notes/)** · A calm place for the notes you own. Plain Markdown files, no account.
 
 🎵 **[Boojy Audio](https://boojy.org/audio/)** · A free, simple music studio. For macOS and Windows.
 
 ## Where things are
 
-- **Notes** is in early access. v0.11.0 is out for macOS, Windows and Linux, and I use it every day. Beta comes when it feels complete for daily use.
-- **Audio** is in early access too, at v0.6.0. I'm back working on it, making it more reliable first. It still has plenty of bugs.
+- **Notes** is in Beta, for macOS, Windows and Linux. I use it every day, and what I bump into decides what I fix next. An Android app on the same editor is in testing.
+- **Audio** is in early access. I'm making it more reliable first. It still has plenty of bugs.
 
-Both are early. Expect rough edges.
-
-There's also Boojy Design, an image editor for the browser. It's on hold until Notes and Audio are both in beta.
+The latest version of each is on its releases page: [Notes](https://github.com/boojyorg/boojy-notes/releases/latest), [Audio](https://github.com/boojyorg/boojy-audio/releases/latest).
 
 ---
 
-Boojy is built and maintained by me, Tyr.
-
-Explore the apps at [boojy.org](https://boojy.org). If you have feedback or find a bug, email me at [tyr@boojy.org](mailto:tyr@boojy.org).
+If you have feedback or find a bug, email me at [tyr@boojy.org](mailto:tyr@boojy.org).
